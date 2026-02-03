@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(pip show:*)",
+      "Bash(\"D:/Study/Anaconda3/envs/tf/python.exe\" -c:*)",
+      "Bash(\"D:/Study/Anaconda3/envs/tf/python.exe\":*)",
+      "Bash(ffmpeg:*)"
+    ]
+  }
+}
